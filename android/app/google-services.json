@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "885075101532",
+    "firebase_url": "https://chimodoshi-78691.firebaseio.com",
+    "project_id": "chimodoshi-78691",
+    "storage_bucket": "chimodoshi-78691.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885075101532:android:6c102c73666bf2f799e399",
+        "android_client_info": {
+          "package_name": "com.example.chimodoshisample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885075101532-a43hqog5gfkhqeeeb14unmogn17b4p3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxPuENpv7T2X7BmYLW9skyKaQ13285WKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885075101532-a43hqog5gfkhqeeeb14unmogn17b4p3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
